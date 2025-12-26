@@ -1,0 +1,62 @@
+[
+    {
+        "course_id": "CS101",
+        "day": "Monday",
+        "time": "9:00 AM - 10:30 AM",
+        "room": "Room 101"
+    },
+    {
+        "course_id": "MATH201",
+        "day": "Monday",
+        "time": "11:00 AM - 12:30 PM",
+        "room": "Room 102"
+    },
+    {
+        "course_id": "PHY301",
+        "day": "Tuesday",
+        "time": "9:00 AM - 10:30 AM",
+        "room": "Lab 201"
+    },
+    {
+        "course_id": "CHEM401",
+        "day": "Tuesday",
+        "time": "11:00 AM - 12:30 PM",
+        "room": "Lab 202"
+    },
+    {
+        "course_id": "ENG101",
+        "day": "Wednesday",
+        "time": "9:00 AM - 10:30 AM",
+        "room": "Room 103"
+    },
+    {
+        "course_id": "HIST201",
+        "day": "Wednesday",
+        "time": "11:00 AM - 12:30 PM",
+        "room": "Room 104"
+    },
+    {
+        "course_id": "ART301",
+        "day": "Thursday",
+        "time": "9:00 AM - 10:30 AM",
+        "room": "Studio 101"
+    },
+    {
+        "course_id": "BIO401",
+        "day": "Thursday",
+        "time": "11:00 AM - 12:30 PM",
+        "room": "Lab 203"
+    },
+    {
+        "course_id": "COMP501",
+        "day": "Friday",
+        "time": "9:00 AM - 10:30 AM",
+        "room": "Computer Lab 1"
+    },
+    {
+        "course_id": "STAT601",
+        "day": "Friday",
+        "time": "11:00 AM - 12:30 PM",
+        "room": "Room 105"
+    }
+]

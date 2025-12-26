@@ -1,0 +1,1262 @@
+[
+    {
+        "name": "Peter Roberts",
+        "roll_no": "S001",
+        "marks": 99.0,
+        "grade": "A",
+        "email": "peter.roberts@example.com",
+        "phone": "+13415133684",
+        "registered_courses": [
+            "MATH101",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Ethan White",
+        "roll_no": "S002",
+        "marks": 64.11,
+        "grade": "D",
+        "email": "ethan.white@example.com",
+        "phone": "+11379998774",
+        "registered_courses": [
+            "MATH101",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Fiona Clark",
+        "roll_no": "S003",
+        "marks": 98.53,
+        "grade": "A",
+        "email": "fiona.clark@example.com",
+        "phone": "+18535800706",
+        "registered_courses": [
+            "HIST301",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Julia Young",
+        "roll_no": "S004",
+        "marks": 62.53,
+        "grade": "D",
+        "email": "julia.young@example.com",
+        "phone": "+11262727059",
+        "registered_courses": [
+            "SCI201",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "William Ramirez",
+        "roll_no": "S005",
+        "marks": 62.26,
+        "grade": "D",
+        "email": "william.ramirez@example.com",
+        "phone": "+11313869806",
+        "registered_courses": [
+            "HIST301",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Xena Robinson",
+        "roll_no": "S006",
+        "marks": 1.83,
+        "grade": "F",
+        "email": "xena.robinson@example.com",
+        "phone": "+18736502927",
+        "registered_courses": [
+            "HIST301",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Fiona Jackson",
+        "roll_no": "S007",
+        "marks": 33.11,
+        "grade": "F",
+        "email": "fiona.jackson@example.com",
+        "phone": "+15357217519",
+        "registered_courses": [
+            "SCI201",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Faith Scott",
+        "roll_no": "S008",
+        "marks": 53.5,
+        "grade": "F",
+        "email": "faith.scott@example.com",
+        "phone": "+17017558206",
+        "registered_courses": [
+            "ENG102",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Bella Rivera",
+        "roll_no": "S009",
+        "marks": 42.5,
+        "grade": "F",
+        "email": "bella.rivera@example.com",
+        "phone": "+17584198757",
+        "registered_courses": [
+            "MATH101",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Diana Lee",
+        "roll_no": "S010",
+        "marks": 86.64,
+        "grade": "B",
+        "email": "diana.lee@example.com",
+        "phone": "+14511471879",
+        "registered_courses": [
+            "COMP202",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Carter Sanchez",
+        "roll_no": "S011",
+        "marks": 49.52,
+        "grade": "F",
+        "email": "carter.sanchez@example.com",
+        "phone": "+18379192438",
+        "registered_courses": [
+            "HIST301",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Noah Hill",
+        "roll_no": "S012",
+        "marks": 65.16,
+        "grade": "D",
+        "email": "noah.hill@example.com",
+        "phone": "+14258474456",
+        "registered_courses": [
+            "HIST301",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Peter Scott",
+        "roll_no": "S013",
+        "marks": 6.31,
+        "grade": "F",
+        "email": "peter.scott@example.com",
+        "phone": "+13250056230",
+        "registered_courses": [
+            "ART150",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Eli Wilson",
+        "roll_no": "S014",
+        "marks": 66.55,
+        "grade": "D",
+        "email": "eli.wilson@example.com",
+        "phone": "+11773688189",
+        "registered_courses": [
+            "HIST301",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Quinn Williams",
+        "roll_no": "S015",
+        "marks": 71.68,
+        "grade": "C",
+        "email": "quinn.williams@example.com",
+        "phone": "+14256129140",
+        "registered_courses": [
+            "HIST301",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "William Robinson",
+        "roll_no": "S016",
+        "marks": 23.83,
+        "grade": "F",
+        "email": "william.robinson@example.com",
+        "phone": "+16576648094",
+        "registered_courses": [
+            "ART150",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Caleb Allen",
+        "roll_no": "S017",
+        "marks": 35.98,
+        "grade": "F",
+        "email": "caleb.allen@example.com",
+        "phone": "+12417352883",
+        "registered_courses": [
+            "MATH101",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Isaac Martin",
+        "roll_no": "S018",
+        "marks": 65.88,
+        "grade": "D",
+        "email": "isaac.martin@example.com",
+        "phone": "+16804495463",
+        "registered_courses": [
+            "HIST301",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Eve Taylor",
+        "roll_no": "S019",
+        "marks": 99.9,
+        "grade": "A",
+        "email": "eve.taylor@example.com",
+        "phone": "+19021883091",
+        "registered_courses": [
+            "ENG102",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Daisy Martin",
+        "roll_no": "S020",
+        "marks": 70.6,
+        "grade": "C",
+        "email": "daisy.martin@example.com",
+        "phone": "+17939738243",
+        "registered_courses": [
+            "COMP202",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Bob Collins",
+        "roll_no": "S021",
+        "marks": 79.78,
+        "grade": "C",
+        "email": "bob.collins@example.com",
+        "phone": "+14514838142",
+        "registered_courses": [
+            "COMP202",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Kate Davis",
+        "roll_no": "S022",
+        "marks": 24.76,
+        "grade": "F",
+        "email": "kate.davis@example.com",
+        "phone": "+14631500680",
+        "registered_courses": [
+            "ENG102",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Zoe Robinson",
+        "roll_no": "S023",
+        "marks": 80.86,
+        "grade": "B",
+        "email": "zoe.robinson@example.com",
+        "phone": "+16327319264",
+        "registered_courses": [
+            "MATH101",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Peter Taylor",
+        "roll_no": "S024",
+        "marks": 13.89,
+        "grade": "F",
+        "email": "peter.taylor@example.com",
+        "phone": "+17622243940",
+        "registered_courses": [
+            "COMP202",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Alice Baker",
+        "roll_no": "S025",
+        "marks": 54.78,
+        "grade": "F",
+        "email": "alice.baker@example.com",
+        "phone": "+11748875876",
+        "registered_courses": [
+            "ART150",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Eli Martin",
+        "roll_no": "S026",
+        "marks": 29.52,
+        "grade": "F",
+        "email": "eli.martin@example.com",
+        "phone": "+18635856837",
+        "registered_courses": [
+            "ENG102",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Fiona Scott",
+        "roll_no": "S027",
+        "marks": 64.88,
+        "grade": "D",
+        "email": "fiona.scott@example.com",
+        "phone": "+12780556636",
+        "registered_courses": [
+            "SCI201",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Ulysses Diaz",
+        "roll_no": "S028",
+        "marks": 5.32,
+        "grade": "F",
+        "email": "ulysses.diaz@example.com",
+        "phone": "+14575424807",
+        "registered_courses": [
+            "ART150",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "William Walker",
+        "roll_no": "S029",
+        "marks": 56.93,
+        "grade": "F",
+        "email": "william.walker@example.com",
+        "phone": "+19962161260",
+        "registered_courses": [
+            "HIST301",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Sophia Lewis",
+        "roll_no": "S030",
+        "marks": 54.48,
+        "grade": "F",
+        "email": "sophia.lewis@example.com",
+        "phone": "+13196788686",
+        "registered_courses": [
+            "COMP202",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Grace Lopez",
+        "roll_no": "S031",
+        "marks": 71.25,
+        "grade": "C",
+        "email": "grace.lopez@example.com",
+        "phone": "+11259502218",
+        "registered_courses": [
+            "HIST301",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Fiona Brown",
+        "roll_no": "S032",
+        "marks": 10.13,
+        "grade": "F",
+        "email": "fiona.brown@example.com",
+        "phone": "+19212731995",
+        "registered_courses": [
+            "MATH101",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Jane Collins",
+        "roll_no": "S033",
+        "marks": 79.97,
+        "grade": "C",
+        "email": "jane.collins@example.com",
+        "phone": "+19230696049",
+        "registered_courses": [
+            "SCI201",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Owen Jackson",
+        "roll_no": "S034",
+        "marks": 95.42,
+        "grade": "A",
+        "email": "owen.jackson@example.com",
+        "phone": "+12983803991",
+        "registered_courses": [
+            "MATH101",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Olivia Adams",
+        "roll_no": "S035",
+        "marks": 83.96,
+        "grade": "B",
+        "email": "olivia.adams@example.com",
+        "phone": "+12264548682",
+        "registered_courses": [
+            "ENG102",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Hannah Hall",
+        "roll_no": "S036",
+        "marks": 85.16,
+        "grade": "B",
+        "email": "hannah.hall@example.com",
+        "phone": "+18088066629",
+        "registered_courses": [
+            "HIST301",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Eve Edwards",
+        "roll_no": "S037",
+        "marks": 9.15,
+        "grade": "F",
+        "email": "eve.edwards@example.com",
+        "phone": "+13235771306",
+        "registered_courses": [
+            "COMP202",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Charlie Reyes",
+        "roll_no": "S038",
+        "marks": 37.59,
+        "grade": "F",
+        "email": "charlie.reyes@example.com",
+        "phone": "+11316826009",
+        "registered_courses": [
+            "ART150",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Liam Campbell",
+        "roll_no": "S039",
+        "marks": 74.81,
+        "grade": "C",
+        "email": "liam.campbell@example.com",
+        "phone": "+12450782524",
+        "registered_courses": [
+            "MATH101",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Aaron Wilson",
+        "roll_no": "S040",
+        "marks": 95.29,
+        "grade": "A",
+        "email": "aaron.wilson@example.com",
+        "phone": "+18823455843",
+        "registered_courses": [
+            "MATH101",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Yusuf Torres",
+        "roll_no": "S041",
+        "marks": 34.99,
+        "grade": "F",
+        "email": "yusuf.torres@example.com",
+        "phone": "+19425556797",
+        "registered_courses": [
+            "ART150",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Quinn Reyes",
+        "roll_no": "S042",
+        "marks": 52.43,
+        "grade": "F",
+        "email": "quinn.reyes@example.com",
+        "phone": "+15013936287",
+        "registered_courses": [
+            "ENG102",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Sophia Rodriguez",
+        "roll_no": "S043",
+        "marks": 39.02,
+        "grade": "F",
+        "email": "sophia.rodriguez@example.com",
+        "phone": "+11056290018",
+        "registered_courses": [
+            "ENG102",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Piper Lopez",
+        "roll_no": "S044",
+        "marks": 42.07,
+        "grade": "F",
+        "email": "piper.lopez@example.com",
+        "phone": "+18062921324",
+        "registered_courses": [
+            "MATH101",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Jane Carter",
+        "roll_no": "S045",
+        "marks": 82.35,
+        "grade": "B",
+        "email": "jane.carter@example.com",
+        "phone": "+12859184423",
+        "registered_courses": [
+            "ENG102",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Ethan Garcia",
+        "roll_no": "S046",
+        "marks": 5.75,
+        "grade": "F",
+        "email": "ethan.garcia@example.com",
+        "phone": "+12499631134",
+        "registered_courses": [
+            "ART150",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Isaac Torres",
+        "roll_no": "S047",
+        "marks": 32.93,
+        "grade": "F",
+        "email": "isaac.torres@example.com",
+        "phone": "+15010675958",
+        "registered_courses": [
+            "COMP202",
+            "ART150"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Liam Martin",
+        "roll_no": "S048",
+        "marks": 22.25,
+        "grade": "F",
+        "email": "liam.martin@example.com",
+        "phone": "+11343132526",
+        "registered_courses": [
+            "ART150",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Beth Wright",
+        "roll_no": "S049",
+        "marks": 92.15,
+        "grade": "A",
+        "email": "beth.wright@example.com",
+        "phone": "+14804216577",
+        "registered_courses": [
+            "MATH101",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Xander Johnson",
+        "roll_no": "S050",
+        "marks": 96.94,
+        "grade": "A",
+        "email": "xander.johnson@example.com",
+        "phone": "+13148051491",
+        "registered_courses": [
+            "SCI201",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Jack Scott",
+        "roll_no": "S051",
+        "marks": 43.22,
+        "grade": "F",
+        "email": "jack.scott@example.com",
+        "phone": "+12349702584",
+        "registered_courses": [
+            "ART150",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Eve Jackson",
+        "roll_no": "S052",
+        "marks": 4.37,
+        "grade": "F",
+        "email": "eve.jackson@example.com",
+        "phone": "+15002534893",
+        "registered_courses": [
+            "ENG102",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Noah Lewis",
+        "roll_no": "S053",
+        "marks": 72.32,
+        "grade": "C",
+        "email": "noah.lewis@example.com",
+        "phone": "+13899011571",
+        "registered_courses": [
+            "MATH101",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Ryan Brown",
+        "roll_no": "S054",
+        "marks": 40.55,
+        "grade": "F",
+        "email": "ryan.brown@example.com",
+        "phone": "+17338595103",
+        "registered_courses": [
+            "SCI201",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "William Parker",
+        "roll_no": "S055",
+        "marks": 29.57,
+        "grade": "F",
+        "email": "william.parker@example.com",
+        "phone": "+14896095665",
+        "registered_courses": [
+            "COMP202",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Mia Adams",
+        "roll_no": "S056",
+        "marks": 34.3,
+        "grade": "F",
+        "email": "mia.adams@example.com",
+        "phone": "+12442300538",
+        "registered_courses": [
+            "SCI201",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Zoe White",
+        "roll_no": "S057",
+        "marks": 42.53,
+        "grade": "F",
+        "email": "zoe.white@example.com",
+        "phone": "+16710363781",
+        "registered_courses": [
+            "SCI201",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Henry Scott",
+        "roll_no": "S058",
+        "marks": 98.88,
+        "grade": "A",
+        "email": "henry.scott@example.com",
+        "phone": "+18798425112",
+        "registered_courses": [
+            "SCI201",
+            "COMP202"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Nora Reyes",
+        "roll_no": "S059",
+        "marks": 34.49,
+        "grade": "F",
+        "email": "nora.reyes@example.com",
+        "phone": "+17397258296",
+        "registered_courses": [
+            "MATH101",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Kevin Wilson",
+        "roll_no": "S060",
+        "marks": 2.39,
+        "grade": "F",
+        "email": "kevin.wilson@example.com",
+        "phone": "+15017564117",
+        "registered_courses": [
+            "ENG102",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Olivia Moore",
+        "roll_no": "S061",
+        "marks": 87.87,
+        "grade": "B",
+        "email": "olivia.moore@example.com",
+        "phone": "+12464882932",
+        "registered_courses": [
+            "SCI201",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Nora Jones",
+        "roll_no": "S062",
+        "marks": 77.76,
+        "grade": "C",
+        "email": "nora.jones@example.com",
+        "phone": "+19684204496",
+        "registered_courses": [
+            "ENG102",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Kevin Martin",
+        "roll_no": "S063",
+        "marks": 51.71,
+        "grade": "F",
+        "email": "kevin.martin@example.com",
+        "phone": "+19895805235",
+        "registered_courses": [
+            "SCI201",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "John Adams",
+        "roll_no": "S064",
+        "marks": 95.99,
+        "grade": "A",
+        "email": "john.adams@example.com",
+        "phone": "+13530404769",
+        "registered_courses": [
+            "HIST301",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Nora Ramirez",
+        "roll_no": "S065",
+        "marks": 16.15,
+        "grade": "F",
+        "email": "nora.ramirez@example.com",
+        "phone": "+19559772085",
+        "registered_courses": [
+            "ENG102",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Daisy Walker",
+        "roll_no": "S066",
+        "marks": 0.34,
+        "grade": "F",
+        "email": "daisy.walker@example.com",
+        "phone": "+12928655794",
+        "registered_courses": [
+            "HIST301",
+            "SCI201"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Jane Torres",
+        "roll_no": "S067",
+        "marks": 20.31,
+        "grade": "F",
+        "email": "jane.torres@example.com",
+        "phone": "+18548383636",
+        "registered_courses": [
+            "ENG102",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Xander Flores",
+        "roll_no": "S068",
+        "marks": 26.46,
+        "grade": "F",
+        "email": "xander.flores@example.com",
+        "phone": "+13830851519",
+        "registered_courses": [
+            "MATH101",
+            "HIST301"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Caleb Perez",
+        "roll_no": "S069",
+        "marks": 27.64,
+        "grade": "F",
+        "email": "caleb.perez@example.com",
+        "phone": "+12907899608",
+        "registered_courses": [
+            "COMP202",
+            "ENG102"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    },
+    {
+        "name": "Bella Johnson",
+        "roll_no": "S070",
+        "marks": 42.68,
+        "grade": "F",
+        "email": "bella.johnson@example.com",
+        "phone": "+15515551300",
+        "registered_courses": [
+            "SCI201",
+            "MATH101"
+        ],
+        "attendance_records": [
+            {
+                "date": "2025-12-24",
+                "status": "Present"
+            }
+        ]
+    }
+]

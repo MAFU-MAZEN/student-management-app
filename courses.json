@@ -1,0 +1,62 @@
+[
+    {
+        "course_id": "MATH101",
+        "course_name": "Introduction to Mathematics",
+        "instructor": "Dr. Sarah Johnson",
+        "credits": 3,
+        "max_students": 30,
+        "schedule": "Mon/Wed 9:00-10:30 AM",
+        "room": "Room 101",
+        "description": "Basic mathematics concepts including algebra, geometry, and calculus fundamentals."
+    },
+    {
+        "course_id": "SCI201",
+        "course_name": "General Science",
+        "instructor": "Prof. Michael Chen",
+        "credits": 4,
+        "max_students": 25,
+        "schedule": "Tue/Thu 11:00 AM-12:30 PM",
+        "room": "Lab 205",
+        "description": "Comprehensive study of physics, chemistry, and biology principles."
+    },
+    {
+        "course_id": "ENG102",
+        "course_name": "English Literature",
+        "instructor": "Ms. Emily Davis",
+        "credits": 3,
+        "max_students": 35,
+        "schedule": "Mon/Wed/Fri 2:00-3:00 PM",
+        "room": "Room 203",
+        "description": "Exploration of classic and contemporary English literature works."
+    },
+    {
+        "course_id": "HIST301",
+        "course_name": "World History",
+        "instructor": "Dr. Robert Wilson",
+        "credits": 3,
+        "max_students": 40,
+        "schedule": "Tue/Thu 1:00-2:30 PM",
+        "room": "Room 305",
+        "description": "Survey of major historical events and civilizations from ancient times to present."
+    },
+    {
+        "course_id": "COMP202",
+        "course_name": "Computer Programming",
+        "instructor": "Mr. David Lee",
+        "credits": 4,
+        "max_students": 28,
+        "schedule": "Mon/Wed 3:00-4:30 PM",
+        "room": "Computer Lab 110",
+        "description": "Introduction to programming concepts using Python and basic software development."
+    },
+    {
+        "course_id": "ART150",
+        "course_name": "Visual Arts",
+        "instructor": "Ms. Lisa Thompson",
+        "credits": 2,
+        "max_students": 20,
+        "schedule": "Fri 10:00 AM-12:00 PM",
+        "room": "Art Studio 401",
+        "description": "Creative expression through various visual art mediums and techniques."
+    }
+]

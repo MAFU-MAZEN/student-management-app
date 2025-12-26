@@ -1,0 +1,9 @@
+[
+    {
+        "email": "mazen@fuad.com",
+        "password_hash": "20a6fa8c0fc71dcecd218eae6a3103e4423fad645e7662b2ddf62ecd37678702",
+        "salt": "81e152caeb9ff1751352ff2796d68fc1324cb57a826c9bde606745111a93d46c",
+        "name": "Mazen",
+        "created_at": "2025-12-26 10:15:27.207872"
+    }
+]
